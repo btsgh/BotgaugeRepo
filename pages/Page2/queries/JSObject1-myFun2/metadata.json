@@ -1,5 +1,5 @@
 {
-  "gitSyncId": "673ee326c35c5b1d9cc7e932_7fe22ed1-b2db-4037-9752-e193b5986a1d",
+  "gitSyncId": "673ee326c35c5b1d9cc7e932_e541f534-4883-49a8-9184-674a6785ca6e",
   "id": "Page2_JSObject1.myFun2",
   "pluginId": "js-plugin",
   "pluginType": "JS",
@@ -10,7 +10,6 @@
       "paginationType": "NONE",
       "timeoutInMillisecond": 10000
     },
-    "clientSideExecution": true,
     "collectionId": "Page2_JSObject1",
     "confirmBeforeExecute": false,
     "datasource": {
