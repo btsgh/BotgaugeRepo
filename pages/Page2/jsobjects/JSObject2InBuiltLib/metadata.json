@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "673ee326c35c5b1d9cc7e932_7aa33f77-453b-42ca-8f2e-bbc886e967aa",
+  "id": "Page2_JSObject2InBuiltLib",
+  "unpublishedCollection": {
+    "name": "JSObject2InBuiltLib",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
