@@ -20,6 +20,10 @@
     {
       "id": "P.amendments",
       "isDefault": false
+    },
+    {
+      "id": "Page3",
+      "isDefault": false
     }
   ]
 }
